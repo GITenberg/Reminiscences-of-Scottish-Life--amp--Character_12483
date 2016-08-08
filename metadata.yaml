@@ -1,0 +1,28 @@
+_repo: Reminiscences-of-Scottish-Life--amp--Character_12483
+_version: 0.0.1
+alternative_title: Reminiscences of Scottish Life and Character
+creator:
+  author:
+    agent_name: Ramsay, Edward Bannerman
+    alias: Ramsay, E. B. (Edward Bannerman)
+    birthdate: 1793
+    deathdate: 1872
+    gutenberg_agent_id: '4391'
+    url: http://www.gutenberg.org/2009/agents/4391
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bannerman_Ramsay
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Social life and customs'
+- !lcsh 'National characteristics, Scottish'
+- !lcc 'DA'
+- GITenberg
+title: Reminiscences of Scottish Life & Character
+url: http://www.gutenberg.org/ebooks/12483
