@@ -1,6 +1,9 @@
 _repo: Reminiscences-of-Scottish-Life--amp--Character_12483
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Reminiscences of Scottish Life and Character
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ramsay, Edward Bannerman
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4391
     wikipedia: http://en.wikipedia.org/wiki/Edward_Bannerman_Ramsay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12483#Reminiscences-of-Scottish-Life--amp--Character
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
